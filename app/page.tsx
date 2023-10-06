@@ -11,7 +11,6 @@ export default function Home() {
     <Link href="./post/album">Post Album</Link><br />
     <Link href="./post/picture">Post Picture</Link><br />
     <Link href="./edit">Edit Post</Link><br />
-    <ProductCard></ProductCard>
    </div>
   )
 }
