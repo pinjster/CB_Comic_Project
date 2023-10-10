@@ -2,6 +2,9 @@ import React from 'react'
 
 export default function edit() {
   return (
-    <div>edit</div>
+    <div>
+      <h1>Edit Page</h1>
+    </div>
+
   )
 }

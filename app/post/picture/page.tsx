@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function picture() {
   return (
-    <div>picture</div>
+    <div>
+      <h1>Add Picture Page</h1>
+    </div>
   )
 }
