@@ -1,6 +1,11 @@
 import React from 'react'
 
 export default function signupPage() {
+  
+  function login(){
+    return
+  }
+  
   return (
     <div>
       <form action="">
