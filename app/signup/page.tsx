@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function signupPage() {
   
+
+  //login function
   function login(){
     return
   }
